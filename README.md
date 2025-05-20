@@ -49,7 +49,6 @@ Sou **Coordenador de Inteligência Artificial** na [Inspirali](https://www.inspi
 - 🤖 LLMs e integração com produtos digitais  
 - ⚙️ MLOps, automação e monitoramento de modelos  
 - 🧠 Estruturação de times de IA e cultura de inovação  
-- 📊 Visualização de dados com foco estratégico
 
 ---
 
